@@ -1,1 +1,6 @@
 .water*
+model.pkl
+**/model.pkl
+*.pkl
+data
+models/
